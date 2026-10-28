@@ -1,0 +1,5 @@
+Really underestimated the time constraint so couldnt complete it on time
+goto backend src 
+run "npm test" for tests
+Goto first and run "npm run dev" for 1st likewise for second to run server
+same in frontend
