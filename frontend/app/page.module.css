@@ -1,0 +1,17 @@
+.main { max-width: 640px; margin: 0 auto; padding: 16px; font-family: system-ui, sans-serif; }
+.sub, .muted { color: #666; }
+.label { display: block; font-weight: 600; margin: 16px 0 4px; }
+.input { width: 100%; padding: 10px; font-size: 16px; border: 1px solid #bbb; border-radius: 8px; box-sizing: border-box; }
+.list { list-style: none; padding: 0; margin: 12px 0; max-height: 260px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px; }
+.row, .rowOn { display: flex; justify-content: space-between; gap: 8px; width: 100%; padding: 12px; font-size: 15px; text-align: left; border: 0; border-bottom: 1px solid #eee; background: #fff; color: #111; cursor: pointer; }
+.rowOn { background: #e8f3ff; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; padding: 0; }
+.chip { display: inline-flex; align-items: center; gap: 6px; padding: 6px 6px 6px 12px; background: #e8f3ff; border-radius: 999px; font-size: 14px; }
+.chip button { border: 0; background: #cfe3fa; border-radius: 50%; width: 24px; height: 24px; cursor: pointer; }
+.items { list-style: none; padding: 0; }
+.item { padding: 12px; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 8px; }
+.itemHead { display: flex; justify-content: space-between; gap: 8px; }
+.bonus { background: #effaf0; padding: 10px; border-radius: 8px; }
+.total { display: flex; justify-content: space-between; font-size: 20px; padding: 12px 0; border-top: 2px solid #111; }
+.savings { color: #17803d; font-weight: 600; }
+.error { background: #fdecec; color: #9b1c1c; padding: 10px; border-radius: 8px; }
